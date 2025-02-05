@@ -54,9 +54,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 📜 **Stack:** `Python` • `Pygame`  
 📌 **Description:**  
 ✅ Implemented classic **Snake game mechanics**  
-✅ Added **collision handling & scoring system**  
-✅ **Unit tested the codebase** for reliability  
-
+✅ Added **collision handling & scoring system**   
 
 ---
 
