@@ -23,14 +23,12 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 ---
 
 ## 📌 **Featured Projects**
-### 🌟 **[Recipe Service Platform](#)**
+### 🌟 **[Recipe Service Platform](https://github.com/FrostWillmott/foodgram)**
 📜 **Stack:** `Python` • `Django REST Framework` • `PostgreSQL` • `Docker` • `GitHub Actions`  
 📌 **Description:**  
 ✅ Built a **scalable REST API** for managing user-created recipes  
 ✅ Users can **subscribe, favorite, and generate shopping lists**  
 ✅ Deployed using **Docker + Nginx + Gunicorn**, CI/CD with **GitHub Actions**  
-
-🔗 **[View Project Repository](#)**  
 
 ---
 
