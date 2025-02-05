@@ -41,7 +41,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
-### 🌟 **[YaMDb Review Platform (User Management System)]()**
+### 🌟 **[YaMDb Review Platform (User Management System)](https://github.com/FrostWillmott/api_yamdb)**
 📜 **Stack:** `Django REST Framework` • `JWT Authentication` • `PostgreSQL`  
 📌 **Description:**  
 ✅ Developed **JWT-based authentication**  
