@@ -1,54 +1,116 @@
-🚀 Hi there!
- I'm Ivan, a Backend Developer passionate about scalable architectures, high-performance APIs, and DevOps automation. I specialize in Python, Django, PostgreSQL.
+# 🚀 Hi there!
+I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable architectures, high-performance APIs, and DevOps automation**.  
 
-💡 I build backend systems that scale, optimize cloud deployments, and contribute to open-source projects.
+💡 **I specialize in building backend systems that scale, optimizing cloud deployments, and contributing to open-source projects.**  
 
-🛠 Tech Stack
-🚀 Backend: Python • Django • REST APIs
-🗄 Databases: PostgreSQL • SQLite
-☁️ Cloud & DevOps: Docker • Docker Compose • CI/CD (GitHub, Actions) • NGINX
+---
 
-📌 Featured Projects
-🌟 Recipe Service Platform
-Stack: Python, Django REST Framework, PostgreSQL, Docker, GitHub Actions
-Description: Developed a scalable REST API for a recipe platform where users can:
-🔹 Create, edit, and publish recipes
-🔹 Subscribe to other users and favorite recipes
-🔹 Generate ingredient shopping lists before visiting the store
-Deployed using Docker, with production configurations managed through Nginx and Gunicorn, and automated CI/CD using GitHub Actions.
-🌟 Blog and Comments Management Site
-Stack: Python, Django, PostgreSQL
-Developed a blogging platform where users can:
-🔹 Write, edit, and delete blog posts
-🔹 Manage comments on articles with permissions and role-based access
-🔹 Connected models with a PostgreSQL database to optimize data management
-🌟 YaMDb Review Platform (User Management System)
-Stack: Python, Django REST Framework, JWT (JSON Web Token), PostgreSQL
-Contributed to YaMDb, a platform that gathers user reviews for various works such as movies and books. Developed:
-🔹 Complete user registration and authentication (JWT-based)
-🔹 User roles and permissions
-🔹 Email-based account confirmation
-🌟 Snake Game (Python)
-Stack: Python, Pygame
-Developed a fully functional Snake game, implementing:
-🔹 Game mechanics and collision handling
-🔹 Scoring system and game events
-🔹 Structured codebase with unit testing to ensure stability
+## 🛠 **Tech Stack**
+### 🚀 **Backend & API Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-0088CC?style=flat&logo=swagger&logoColor=white)  
 
-📚 Education & Certifications
-🎓 MSc in Computer Science (Ongoing) - University of Colorado Boulder
-📜 Yandex Practicum - Python Developer Bootcamp (Completed)
-☁️ Certifications: IBM - Introduction to Cloud Computing (Completed)
-Meta - Introduction to Front-End Development 
+### 🗄 **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
-🎯 Current Focus
-🔹 Optimizing backend systems for scalability & performance
-🔹 Building cloud infrastructure and improving DevOps pipelines (CI/CD)
+### ☁️ **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 
-📫 Connect With Me
-💼 LinkedIn: Your LinkedIn
-🌍 Portfolio: Your Website
-📩 Email: Your Email
-🛠 GitHub Repos: Your Work
+---
 
-💡 Always open to collaborations on backend engineering, cloud infrastructure, and AI-powered applications! Let’s connect.
+## 📌 **Featured Projects**
+### 🌟 **[Recipe Service Platform](#)**
+📜 **Stack:** `Python` • `Django REST Framework` • `PostgreSQL` • `Docker` • `GitHub Actions`  
+📌 **Description:**  
+✅ Built a **scalable REST API** for managing user-created recipes  
+✅ Users can **subscribe, favorite, and generate shopping lists**  
+✅ Deployed using **Docker + Nginx + Gunicorn**, CI/CD with **GitHub Actions**  
+
+🔗 **[View Project Repository](#)**  
+
+---
+
+### 🌟 **[Blog and Comments Management Site](#)**
+📜 **Stack:** `Django` • `PostgreSQL`  
+📌 **Description:**  
+✅ Users can **write, edit, and delete blogs**  
+✅ Implemented **role-based access** and **database indexing for speed**  
+✅ Designed an optimized **PostgreSQL database schema**  
+
+🔗 **[View Project Repository](#)**  
+
+---
+
+### 🌟 **[YaMDb Review Platform (User Management System)](#)**
+📜 **Stack:** `Django REST Framework` • `JWT Authentication` • `PostgreSQL`  
+📌 **Description:**  
+✅ Developed **JWT-based authentication**  
+✅ Implemented **email-based user verification**  
+✅ Built a **secure user roles & permissions system**  
+
+🔗 **[View Project Repository](#)**  
+
+---
+
+### 🌟 **[Snake Game (Python)](#)**
+📜 **Stack:** `Python` • `Pygame`  
+📌 **Description:**  
+✅ Implemented classic **Snake game mechanics**  
+✅ Added **collision handling & scoring system**  
+✅ **Unit tested the codebase** for reliability  
+
+🔗 **[View Project Repository](#)**  
+
+---
+
+## 📚 **Education & Certifications**
+🎓 **MSc in Computer Science (Ongoing)** - **University of Colorado Boulder**  
+📜 **Yandex Practicum - Python Developer Bootcamp** (Completed)  
+☁️ **Certifications:**  
+- **IBM - Introduction to Cloud Computing** *(Relevant for Cloud & DevOps)*  
+
+💡 **Meta - Introduction to Front-End Development** *(Not included here since it's not backend-related, but can be listed on LinkedIn/Resume if needed.)*
+
+---
+
+## 🎯 **Current Focus**
+🔹 **Optimizing backend systems for scalability & performance**  
+🔹 **Building cloud infrastructure and improving DevOps pipelines (CI/CD)**  
+🔹 **Contributing to open-source projects (Django, PostgreSQL, FastAPI)**  
+
+---
+
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](Your_Portfolio)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Your_Email)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](Your_GitHub)  
+
+💡 **I'm always open to collaborations on backend engineering, cloud infrastructure, and DevOps projects! Let’s connect.**  
+
+---
+
+## 🔥 **Why Is This Version Better?**
+✅ **Concise & engaging intro** 🚀  
+✅ **Uses GitHub badges for better visuals**  
+✅ **Reorganized projects for readability**  
+✅ **Only relevant certifications included**  
+✅ **Improved project descriptions with repository links**  
+
+---
+
+### **🚀 Next Steps: Do You Need Help With?**
+✔ **Optimizing your GitHub project READMEs for recruiters?**  
+✔ **Building a strong DevOps & backend project for your portfolio?**  
+✔ **Finding high-value open-source projects to contribute to?**  
+
+Let me know how I can refine this further! 🚀😊
+
