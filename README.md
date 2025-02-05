@@ -75,7 +75,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 ---
 
 ## 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ivan-tkachenko-6189b4127/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-tkachenko-6189b4127/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://frostwillmott.github.io/My-personal-site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:i.tkachenko@zohomail.eu)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FrostWillmott)
