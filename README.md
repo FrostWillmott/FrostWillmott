@@ -41,7 +41,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
-### 🌟 **[YaMDb Review Platform (User Management System)](#)**
+### 🌟 **[YaMDb Review Platform (User Management System)]()**
 📜 **Stack:** `Django REST Framework` • `JWT Authentication` • `PostgreSQL`  
 📌 **Description:**  
 ✅ Developed **JWT-based authentication**  
@@ -52,14 +52,13 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
-### 🌟 **[Snake Game (Python)](#)**
+### 🌟 **[Snake Game (Python)]((https://github.com/FrostWillmott/snake-game)**
 📜 **Stack:** `Python` • `Pygame`  
 📌 **Description:**  
 ✅ Implemented classic **Snake game mechanics**  
 ✅ Added **collision handling & scoring system**  
 ✅ **Unit tested the codebase** for reliability  
 
-🔗 **[View Project Repository](#)**  
 
 ---
 
@@ -67,9 +66,9 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 🎓 **MSc in Computer Science (Ongoing)** - **University of Colorado Boulder**  
 📜 **Yandex Practicum - Python Developer Bootcamp** (Completed)  
 ☁️ **Certifications:**  
-- **IBM - Introduction to Cloud Computing** *(Relevant for Cloud & DevOps)*  
+- **IBM - Introduction to Cloud Computing**
 
-💡 **Meta - Introduction to Front-End Development** *(Not included here since it's not backend-related, but can be listed on LinkedIn/Resume if needed.)*
+💡 **Meta - Introduction to Front-End Development**
 
 ---
 
