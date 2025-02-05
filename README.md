@@ -1,7 +1,7 @@
 # 🚀 Hi there!
 I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable architectures, high-performance APIs, and DevOps automation**.  
 
-💡 **I specialize in building backend systems that scale, optimizing cloud deployments, and contributing to open-source projects.**  
+💡 **I specialize in building backend systems that scale, optimizing cloud deployments.**  
 
 ---
 
