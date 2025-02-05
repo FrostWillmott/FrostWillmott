@@ -41,7 +41,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 ✅ Implemented **role-based access**
 ✅ Designed an optimized **PostgreSQL database schema**  
 
-🔗 **[View Project Repository](#)**  
+🔗 **[View Project Repository](kittygram.biz/)**  
 
 ---
 
