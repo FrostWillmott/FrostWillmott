@@ -80,7 +80,6 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 ## 🎯 **Current Focus**
 🔹 **Optimizing backend systems for scalability & performance**  
 🔹 **Building cloud infrastructure and improving DevOps pipelines (CI/CD)**  
-🔹 **Contributing to open-source projects (Django, PostgreSQL, FastAPI)**  
 
 ---
 
@@ -93,20 +92,3 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 💡 **I'm always open to collaborations on backend engineering, cloud infrastructure, and DevOps projects! Let’s connect.**  
 
 ---
-
-## 🔥 **Why Is This Version Better?**
-✅ **Concise & engaging intro** 🚀  
-✅ **Uses GitHub badges for better visuals**  
-✅ **Reorganized projects for readability**  
-✅ **Only relevant certifications included**  
-✅ **Improved project descriptions with repository links**  
-
----
-
-### **🚀 Next Steps: Do You Need Help With?**
-✔ **Optimizing your GitHub project READMEs for recruiters?**  
-✔ **Building a strong DevOps & backend project for your portfolio?**  
-✔ **Finding high-value open-source projects to contribute to?**  
-
-Let me know how I can refine this further! 🚀😊
-
