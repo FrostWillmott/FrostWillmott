@@ -34,14 +34,12 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
-### 🌟 **[Blog and Comments Management Site](#)**
+### 🌟 **[Blog and Comments Management Site](kittygram.biz/)**
 📜 **Stack:** `Django` • `PostgreSQL`  
 📌 **Description:**  
 ✅ Users can **write, edit, and delete blogs**  
 ✅ Implemented **role-based access**
 ✅ Designed an optimized **PostgreSQL database schema**  
-
-🔗 **[View Project Repository](kittygram.biz/)**  
 
 ---
 
