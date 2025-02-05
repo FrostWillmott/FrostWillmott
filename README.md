@@ -52,7 +52,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
-### 🌟 **[Snake Game (Python)]((https://github.com/FrostWillmott/snake-game)**
+### 🌟 **[Snake Game (Python)](https://github.com/FrostWillmott/snake-game)**
 📜 **Stack:** `Python` • `Pygame`  
 📌 **Description:**  
 ✅ Implemented classic **Snake game mechanics**  
