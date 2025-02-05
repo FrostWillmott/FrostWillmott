@@ -38,7 +38,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 📜 **Stack:** `Django` • `PostgreSQL`  
 📌 **Description:**  
 ✅ Users can **write, edit, and delete blogs**  
-✅ Implemented **role-based access** and **database indexing for speed**  
+✅ Implemented **role-based access**
 ✅ Designed an optimized **PostgreSQL database schema**  
 
 🔗 **[View Project Repository](#)**  
