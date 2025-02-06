@@ -59,14 +59,22 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 ---
 
 ## 📚 **Education & Certifications**
-🎓 **MSc in Computer Science (Ongoing)** - **University of Colorado Boulder**
 
-🎓 **MSc Economics and Enterprise Management** - **Perm State Technical University**
-📜 **Yandex Practicum - Python Developer Bootcamp** 
-☁️ **Certifications:**  
-💡 **IBM - Introduction to Cloud Computing**
+- 🎓 **MSc in Computer Science (Ongoing)**  
+  *University of Colorado Boulder*
+  
+- 🎓 **MSc Economics and Enterprise Management**  
+  *Perm State Technical University*
 
-💡 **Meta - Introduction to Front-End Development**
+- 📜 **Yandex Practicum - Python Developer Bootcamp**
+
+---
+
+**☁️ Certifications:**
+
+- 💡 **IBM - Introduction to Cloud Computing**
+
+- 💡 **Meta - Introduction to Front-End Development**
 
 ---
 
