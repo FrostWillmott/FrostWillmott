@@ -7,9 +7,7 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ## 🛠 **Tech Stack**
 ### 🚀 **Backend & API Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-0088CC?style=flat&logo=swagger&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![REST API](https://img.shields.io/badge/REST-0088CC?style=flat&logo=swagger&logoColor=white)  
 
 ### 🗄 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
