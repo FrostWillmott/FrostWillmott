@@ -110,3 +110,6 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 💡 **I'm always open to collaborations on backend engineering, cloud infrastructure, and DevOps projects! Let’s connect.**  
 
 ---
+## 📈 GitHub Stats (Optional)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrostWillmott&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostWillmott&layout=compact&theme=radical)
