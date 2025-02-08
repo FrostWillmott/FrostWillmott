@@ -12,13 +12,10 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=amazon-dynamodb&logoColor=white)
-- **OOP** (Object-Oriented Programming)
 
 ## Backend
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 - ![Django REST Framework](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red)
-- **REST API** (Design & consumption)
-- **JWT** (Authentication)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## Databases
