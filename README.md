@@ -30,7 +30,6 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ## Testing
 - ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=python&logoColor=white)
-- **Unit Testing** (e.g., `unittest`, `pytest`)
 
 ## Frontend
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
