@@ -110,10 +110,3 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 💡 **I'm always open to collaborations on backend engineering, cloud infrastructure, and DevOps projects! Let’s connect.**  
 
 ---
-## 📈 GitHub Stats
-> (Uncomment and replace `YOUR_GITHUB_USERNAME` in the code below if you wish to show stats)
-```html
-<!--
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
--->
