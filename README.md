@@ -90,9 +90,8 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 **☁️ Certifications:**
 
-- 💡 **IBM - Introduction to Cloud Computing**
-
-- 💡 **Meta - Introduction to Front-End Development**
+- [**IBM - Introduction to Cloud Computing**](https://courses.edx.org/certificates/55bfa3bf3d9c462389cf24ea23abe21e)  
+- [**Meta - Introduction to Front-End Development**](https://coursera.org/share/7341a309377db466d98a5fb71d853e7b)
 
 ---
 
