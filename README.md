@@ -5,6 +5,15 @@ I'm **Ivan Tkachenko**, a **Backend Developer** passionate about **scalable arch
 
 ---
 
+## 🏷️ About Me
+My path into **IT** began while serving as **Deputy General Director for Economics and Finance in a subsidiary of a large oil and gas corporation**. In that role, I managed the **integration of SAP R3 and 1С**, oversaw **business process optimization**, and discovered my passion for **automation** and **technical solutions**. This hands-on experience—translating **business requirements** into **IT deliverables**—fueled my transition into **software development**.
+
+I chose **Python** for its flexibility and have honed my skills in **Django, Django REST Framework, Docker, CI/CD**, and **PostgreSQL** to build **robust**, **scalable** backends. When I’m not coding, I’m exploring **new cities** and **new technologies**, always looking to **collaborate** with driven teams.
+
+---
+![image](https://github.com/user-attachments/assets/64e5626f-1026-453e-b945-8d896d27e5b1)
+
+
 ## 🚀 Tech Stack
 
 ### Languages & Fundamentals
