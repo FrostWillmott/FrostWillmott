@@ -11,7 +11,6 @@ My path into **IT** began while serving as **Deputy General Director for Economi
 I chose **Python** for its flexibility and have honed my skills in **Django, Django REST Framework, Docker, CI/CD**, and **PostgreSQL** to build **robust**, **scalable** backends. When I’m not coding, I’m exploring **new cities** and **new technologies**, always looking to **collaborate** with driven teams.
 
 ---
-![image](https://github.com/user-attachments/assets/64e5626f-1026-453e-b945-8d896d27e5b1)
 
 
 ## 🚀 Tech Stack
