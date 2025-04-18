@@ -109,6 +109,15 @@ I chose **Python** for its flexibility and have honed my skills in **Django, Dja
 
 ---
 
+## 📊 **GitHub Activity**
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrostWillmott&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostWillmott&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostWillmott&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-tkachenko-6189b4127/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://frostwillmott.github.io/My-personal-site/)
