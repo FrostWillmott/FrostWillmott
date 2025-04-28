@@ -29,6 +29,7 @@ I chose **Python** for its flexibility and have honed my skills in **Django, Dja
 ### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DE5043?style=flat&logo=sqlalchemy&logoColor=white)
 
 ### DevOps & CI/CD
