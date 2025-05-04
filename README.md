@@ -61,7 +61,7 @@ I chose **Python** for its flexibility and have honed my skills in **Django, Dja
 
 ---
 
-### 🌟 **[Todo App (FastAPI)](https://github.com/FrostWillmott/todo_app)**
+### 🌟 **[Todo App (FastAPI)](https://github.com/FrostWillmott/todo_app) – [Live Demo](https://todo-app-7gje.onrender.com)**
 📜 **Stack:** `FastAPI` • `Python` • `SQLAlchemy` • `MySQL` • `Alembic` • `Pydantic` • `Jinja2` • `JWT Authentication` • `Pytest`  
 📌 **Description:**  
 ✅ Implemented **CRUD operations** for tasks with RESTful endpoints  
