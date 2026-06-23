@@ -1,6 +1,6 @@
 ## Ivan Tkachenko
 
-Python Backend Developer based in Moscow.
+Python Backend Developer.
 
 15 years in corporate finance, last role as Deputy CEO 
 at a major oil & gas company. Switched to development 
