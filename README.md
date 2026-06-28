@@ -55,7 +55,7 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 
 ---
 
-## 📚 **Education & Certificates**
+## 📚 **Education**
 
 - 🎓 **Master of Science in Computer Science (in progress)**  
   *University of Colorado Boulder*  
@@ -63,12 +63,9 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 - 🎓 **Master of Economics and Business Management**  
   *Perm State Technical University*  
 
-- 📜 **Yandex Practicum — Python Developer Bootcamp**
+**📜 Training & Certificates:**
 
-**☁️ Certificates:**
-
-- [**IBM — Introduction to Cloud Computing**](https://courses.edx.org/certificates/55bfa3bf3d9c462389cf24ea23abe21e)  
-- [**Meta — Introduction to Front-End Development**](https://coursera.org/share/7341a309377db466d98a5fb71d853e7b)
+- **Yandex Practicum — Python Developer Bootcamp**
 - 🌐 **IELTS General Training — Band 6.5 (B2)** *(British Council)*
 
 ---
