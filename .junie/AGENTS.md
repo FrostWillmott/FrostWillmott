@@ -21,3 +21,7 @@ Note: Projects section removed — listed repos (foodgram-project, api_yamdb, ki
 ## Discovered Issues (fixed)
 - .gitignore was empty → deleted; .idea/ and .cursor/ added to .git/info/exclude
 - README.md was missing the Contacts section → restored
+
+## Git Workflow Notes
+- Remote can diverge (force-push or edits via GitHub UI); always `git pull --rebase` before pushing.
+- Rebase conflicts on README.md: resolve by keeping the local (improved) version, then `GIT_EDITOR=true git rebase --continue`.
