@@ -14,13 +14,12 @@
 2. Tech Stack (Python, Django, DRF, FastAPI, Docker, PostgreSQL, Redis, Celery, etc.)
 3. Education & Certificates
 4. Current Focus
-5. Contacts (GitHub, LinkedIn, Telegram badges)
 
 Note: Projects section removed — listed repos (foodgram-project, api_yamdb, kittygram) were outdated; current projects are shown via GitHub pinned repos directly.
 
 ## Discovered Issues (fixed)
 - .gitignore was empty → deleted; .idea/ and .cursor/ added to .git/info/exclude
-- README.md was missing the Contacts section → restored
+- README.md: section "Contacts" removed to avoid duplication with GitHub bio.
 
 ## Git Workflow Notes
 - Remote can diverge (force-push or edits via GitHub UI); always `git pull --rebase` before pushing.

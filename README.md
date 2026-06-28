@@ -82,10 +82,3 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 
 💡 **Always open to collaboration on backend development, cloud infrastructure, and DevOps projects! Let's connect.**
 
----
-
-## 📬 **Contacts**
-
-[![GitHub](https://img.shields.io/badge/GitHub-FrostWillmott-181717?style=flat&logo=github&logoColor=white)](https://github.com/FrostWillmott)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Tkachenko-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-tkachenko-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-@FrostWillmott-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/FrostWillmott)
