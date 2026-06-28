@@ -20,4 +20,4 @@ Note: Projects section removed — listed repos (foodgram-project, api_yamdb, ki
 
 ## Discovered Issues (fixed)
 - .gitignore was empty → deleted; .idea/ and .cursor/ added to .git/info/exclude
-- README.md was missing Projects and Contacts sections → restored
+- README.md was missing the Contacts section → restored
