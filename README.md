@@ -4,7 +4,7 @@ My name is **Ivan Tkachenko**, I'm a **Python Backend Developer** specializing i
 ---
 
 ## 🏷️ About Me
-I transitioned into **IT** from finance and economics, where I served as **Deputy General Director** at a subsidiary of a major oil and gas corporation. I managed **SAP R3 and 1C integration**, optimized business processes, and gained hands-on experience with technical systems. After moving into programming, I discovered a passion for **web development** as a way to build practical and functional solutions.
+Python backend engineer with firsthand experience on the business side of enterprise systems. As **Deputy General Director** at an oil and gas subsidiary, I owned **SAP R3 and 1C integration** and large-scale process automation — which shaped how I think about production reliability, data integrity, and the real cost of downtime.
 
 I build production-ready backend services with focus on **Clean Architecture**, full test isolation via **AsyncMock**, atomic state transitions, and distributed-systems patterns (retry/backoff, graceful shutdown, structured logging). Current work spans **FastAPI + async SQLAlchemy**, **RAG/LLM integration** with pgvector and Ollama, and CI/CD pipelines with coverage gates. In my spare time, I travel to new cities and dive into new technologies.
 
@@ -22,7 +22,6 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-Django%20REST%20Framework-red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -77,5 +76,5 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 
 ---
 
-💡 **Always open to collaboration on backend development, cloud infrastructure, and DevOps projects! Let's connect.**
+💡 **Open to backend engineering roles. Let's connect.**
 
