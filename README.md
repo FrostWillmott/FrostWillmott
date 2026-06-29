@@ -7,6 +7,7 @@ My name is **Ivan Tkachenko**, I'm a **Python Backend Developer** specializing i
 Python backend engineer with firsthand experience on the business side of enterprise systems. As **Deputy General Director** at an oil and gas subsidiary, I owned **SAP R3 and 1C integration** and large-scale process automation — which shaped how I think about production reliability, data integrity, and the real cost of downtime.
 
 I build production-ready backend services with focus on **Clean Architecture**, full test isolation via **AsyncMock**, atomic state transitions, and distributed-systems patterns (retry/backoff, graceful shutdown, structured logging). Current work spans **FastAPI + async SQLAlchemy**, **RAG/LLM integration** with pgvector and Ollama, and CI/CD pipelines with coverage gates.
+
 ---
 
 ## 🚀 Tech Stack
