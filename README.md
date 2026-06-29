@@ -6,8 +6,7 @@ My name is **Ivan Tkachenko**, I'm a **Python Backend Developer** specializing i
 ## 🏷️ About Me
 Python backend engineer with firsthand experience on the business side of enterprise systems. As **Deputy General Director** at an oil and gas subsidiary, I owned **SAP R3 and 1C integration** and large-scale process automation — which shaped how I think about production reliability, data integrity, and the real cost of downtime.
 
-I build production-ready backend services with focus on **Clean Architecture**, full test isolation via **AsyncMock**, atomic state transitions, and distributed-systems patterns (retry/backoff, graceful shutdown, structured logging). Current work spans **FastAPI + async SQLAlchemy**, **RAG/LLM integration** with pgvector and Ollama, and CI/CD pipelines with coverage gates. In my spare time, I travel to new cities and dive into new technologies.
-
+I build production-ready backend services with focus on **Clean Architecture**, full test isolation via **AsyncMock**, atomic state transitions, and distributed-systems patterns (retry/backoff, graceful shutdown, structured logging). Current work spans **FastAPI + async SQLAlchemy**, **RAG/LLM integration** with pgvector and Ollama, and CI/CD pipelines with coverage gates.
 ---
 
 ## 🚀 Tech Stack
@@ -26,7 +25,6 @@ I build production-ready backend services with focus on **Clean Architecture**, 
 ### Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DE5043?style=flat&logo=sqlalchemy&logoColor=white)
 
 ### DevOps & CI/CD
